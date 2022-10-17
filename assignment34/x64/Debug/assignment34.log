@@ -1,0 +1,21 @@
+﻿  Country.c
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Country.h(8,1): warning C4820: '<unnamed-tag>': '4' bytes padding added after data member 'population'
+  CountryRepository.c
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\CountryRepository.c(106,14): warning C4098: 'setCountryToPosition': 'void' function returning a value
+  DynamicVector.c
+  main.c
+  Operation.c
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Operation.c(50,9): warning C4033: 'copyOperation' must return a value
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Operation.c(66,5): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Service.c
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Service.c(113,3): warning C4033: 'filterByStringFunction' must return a value
+  Ui.c
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Ui.c(170,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Ui.c(262,12): warning C4098: 'startUi': 'void' function returning a value
+  Generating Code...
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Ui.c(13): warning C4715: 'createUI': not all control paths return a value
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Ui.c(248): warning C4715: 'updateCountryUi': not all control paths return a value
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Service.c(125): warning C4715: 'filterByStringFunction': not all control paths return a value
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Service.c(170): warning C4716: 'updateUndoRedo': must return a value
+C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\assignment34\Operation.c(52): warning C4715: 'copyOperation': not all control paths return a value
+  assignment34.vcxproj -> C:\Users\cipri\source\repos\a3-4-917-Turcu-Ciprian\assignment34\x64\Debug\assignment34.exe
