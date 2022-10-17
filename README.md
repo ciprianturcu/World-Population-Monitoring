@@ -1,5 +1,7 @@
 # World-Population-Monitoring
 
+This project was done as an assignment for university and should be treated as a display of the ability to work with object-oriented programming concepts, rather than as a tool that is innovative.
+
 ## Problem Statement
 
 The World Population Monitoring Organisation needs an application to help keep track of countries’ populations. Each **Country** has a unique `name`, the `continent` it belongs to (one of `Europe, America, Africa, Australia or Asia`), and a population (stored in millions).  The employees of the organisation need the application to help them in the following ways:\
